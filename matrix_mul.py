@@ -19,8 +19,8 @@ for i in range(len(Prices)):
     for j in range(len(Prices[0])):
         # COMPLETE THE MISSING LOGIC HERE
         row_sum += Prices[i][j] * Array2[j]
-
-    Ans.append(row_sum)
+ 
+    # Ans.append(row_sum)
 
 
 print(Ans)
