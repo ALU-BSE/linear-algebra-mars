@@ -4,7 +4,7 @@
 ## Participant Names  
 - **Participant 1:** [Omar Keita]  
 
-- **Participant 2:** [Name of Student 2]  
+- **Participant 2:** [Daniel Marial Reng Kudum ]  
 
 ## Description  
 This assignment involves debugging and completing the provided starter code to compute the sum of products for two matrices.  
